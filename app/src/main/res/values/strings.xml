@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LaunchPad</string>
+    <string-array name="drumpad">
+        <item>Classic</item>
+        <item>Bass</item>
+        <item>RB</item>
+        <item>Trap</item>
+        <item>Skrillex</item>
+        <item>Chill</item>
+        <item>Electro</item>
+    </string-array>
+</resources>
